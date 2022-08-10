@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # bst-traversal
 
+Difficulty: medium
 
   Write three functions that take in a Binary Search Tree (BST) and an empty
   array, traverse the BST, add its nodes' values to the input array, and return
